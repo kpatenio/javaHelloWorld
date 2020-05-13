@@ -3,7 +3,7 @@ public class HelloWorld {
         System.out.println("HELLO WORLD"); // change in branch1
     }
 
-    public void foo() {
+    public void bar() {
         System.out.println("Foo");
     }
 }
